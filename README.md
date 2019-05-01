@@ -1,5 +1,9 @@
 # Node.js-MySQL
 
+A storefront created with the MySQL. Customers will place orders and deplete stock from an inventory.
+
+# Demo
+
 1. mySQL bamazon db
 
 ![Image](/screenshots/1.png)
